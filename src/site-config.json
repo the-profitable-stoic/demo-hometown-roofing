@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "Hometown Roofing",
+    "phone": "+18162692528",
+    "category": "roofer",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Kansas City's Roofing Authority",
+      "heroSubline": "Durable roofs built to withstand Missouri's toughest weather. Hometown Roofing: Protecting your home, guaranteed.",
+      "aboutTitle": "Built on Kansas City Values",
+      "aboutText": [
+        "Hometown Roofing started with a simple goal: to provide Kansas City homeowners with roofing solutions they can trust. We're not just roofers; we're your neighbors, committed to protecting your homes from the unpredictable Missouri climate.",
+        "We believe in honest assessments, transparent pricing, and unwavering dedication to quality. From the initial inspection to the final shingle, we approach every project with meticulous attention to detail, ensuring a roof that lasts.",
+        "Hometown Roofing is actively involved in supporting local initiatives and organizations strengthening our community. We're proud to be Kansas City natives and give back to the city that has given us so much."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Kansas City's unique weather challenges and housing styles."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "Using only the best roofing materials designed for long-term performance."
+        },
+        {
+          "title": "Skilled Craftsmanship",
+          "description": "Our experienced team delivers exceptional workmanship on every project."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to providing prompt, professional, and dependable service."
+        }
+      ],
+      "ctaHeadline": "Get a Free Roofing Inspection",
+      "ctaSubline": "Protect your home with a durable roof that stands the test of time. Contact us today!"
+    },
+    "services": [
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Complete roof replacement services for lasting protection.",
+        "description": "Is your roof showing signs of age, damage, or wear? Don't wait for leaks and further structural issues. Hometown Roofing offers comprehensive roof replacement services tailored to Kansas City homes. We handle everything from removing your old roof to installing a brand new, durable roofing system. We work with a variety of materials, including asphalt shingles, tile, metal, and flat roofing options, to match your home's style and budget. Considering Kansas City's fluctuating temperatures and severe weather events, we ensure your new roof is properly sealed, insulated, and ventilated to withstand the elements for years to come. We also pay close attention to proper flashing around chimneys, vents, and skylights to prevent water damage. Our experienced team will guide you through the entire process, from selecting the right materials to ensuring a seamless installation. We handle all permitting and inspections, so you can rest assured that your new roof meets all local building codes and regulations. Protect your investment with a roof replacement from Hometown Roofing. We'll keep your home safe and dry, no matter what the Missouri weather throws your way.",
+        "process": [
+          "Step 1: Thorough roof inspection and assessment",
+          "Step 2: Material selection and project planning",
+          "Step 3: Removal of old roofing materials",
+          "Step 4: Installation of new underlayment, flashing, and roofing system"
+        ],
+        "benefits": [
+          "Increased home value",
+          "Enhanced curb appeal",
+          "Improved energy efficiency",
+          "Long-term protection from the elements"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "Most roof replacements can be completed in 1-3 days, depending on the size and complexity of the roof."
+          },
+          {
+            "question": "What type of roofing material is best for Kansas City's climate?",
+            "answer": "Asphalt shingles are a popular and cost-effective option, but metal roofing and tile roofs offer enhanced durability and longevity."
+          },
+          {
+            "question": "Do you offer financing options for roof replacements?",
+            "answer": "Yes, we offer flexible financing options to help make your roof replacement more affordable."
+          }
+        ]
+      },
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Expert roof repair services to fix leaks and damage.",
+        "description": "From minor leaks to storm damage, Hometown Roofing provides prompt and reliable roof repair services throughout the Kansas City metro area. We understand that even small roof problems can quickly escalate into major issues, causing costly damage to your home's interior. Our experienced technicians are skilled at diagnosing and repairing all types of roofing problems, including missing shingles, damaged flashing, leaks around chimneys and vents, and storm-related damage. We use only the highest quality materials to ensure lasting repairs that blend seamlessly with your existing roof. We understand the importance of addressing roof repairs quickly, especially with Kansas City's unpredictable weather patterns. We offer emergency repair services to minimize further damage and protect your home from the elements. Before we begin any work, we'll provide you with a detailed assessment of the damage and a clear explanation of our recommended repair solutions. We'll also provide you with a transparent estimate, so you know exactly what to expect. Don't let a small roof problem turn into a major headache. Contact Hometown Roofing for expert roof repair services you can trust.",
+        "process": [
+          "Step 1: Detailed inspection to identify the source of the problem",
+          "Step 2: Secure the area to prevent further damage",
+          "Step 3: Repair or replace damaged materials",
+          "Step 4: Confirm the repair is leak-proof and secure"
+        ],
+        "benefits": [
+          "Prevents further damage",
+          "Extends roof lifespan",
+          "Protects your home's interior",
+          "Cost-effective solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a roof repair?",
+            "answer": "Common signs include water stains on your ceilings, missing or damaged shingles, and leaks around chimneys or vents."
+          },
+          {
+            "question": "How long will the roof repair take?",
+            "answer": "Most roof repairs can be completed in a single day, depending on the extent of the damage."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer 24/7 emergency roof repair services to address urgent roofing problems."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Gutter installation, repair, and cleaning to protect your home.",
+        "description": "Properly functioning gutters are essential for protecting your Kansas City home from water damage. Hometown Roofing offers comprehensive gutter services, including installation, repair, and cleaning. We install seamless aluminum gutters, which are custom-made to fit your home's exact dimensions, minimizing leaks and maximizing water flow. We also offer gutter guards to prevent leaves and debris from clogging your gutters, reducing the need for frequent cleaning. Our gutter repair services address issues such as sagging gutters, broken hangers, and leaky seams. We use only high-quality materials to ensure lasting repairs that withstand the elements. Regular gutter cleaning is crucial for preventing water damage to your roof, foundation, and siding. We recommend cleaning your gutters at least twice a year, especially in the fall when leaves are falling. Our experienced technicians will remove all debris from your gutters and downspouts, ensuring proper water flow. We understand the importance of protecting your home from water damage, and we're committed to providing reliable gutter services that you can trust. Contact Hometown Roofing today for a free gutter inspection.",
+        "process": [
+          "Step 1: Thorough inspection of your gutter system",
+          "Step 2: Cleaning or repair of existing gutters",
+          "Step 3: Installation of new gutters or gutter guards (if needed)",
+          "Step 4: Ensuring proper drainage and functionality"
+        ],
+        "benefits": [
+          "Prevents water damage to your home",
+          "Protects your foundation",
+          "Extends the life of your roof",
+          "Reduces the risk of ice dams"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, especially in the spring and fall."
+          },
+          {
+            "question": "What are the benefits of seamless gutters?",
+            "answer": "Seamless gutters are custom-made to fit your home, minimizing leaks and maximizing water flow."
+          },
+          {
+            "question": "Do you offer gutter guard installation?",
+            "answer": "Yes, we offer gutter guard installation to prevent leaves and debris from clogging your gutters."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Fast and reliable storm damage repair to restore your roof.",
+        "description": "Kansas City is no stranger to severe weather, and Hometown Roofing is here to help you recover from storm damage quickly and efficiently. We offer comprehensive storm damage repair services, including roof inspections, emergency repairs, and insurance claim assistance. Our experienced technicians are skilled at assessing storm damage and providing accurate estimates for repairs. We work closely with insurance companies to ensure that your claim is processed smoothly and efficiently. We understand the stress and disruption that storm damage can cause, and we're committed to providing prompt and reliable service to restore your roof and protect your home. We offer emergency tarping services to prevent further damage from rain and wind. We also handle all types of storm damage repairs, including missing shingles, damaged flashing, and structural damage. Don't let storm damage compromise the integrity of your roof. Contact Hometown Roofing for fast and reliable storm damage repair services.",
+        "process": [
+          "Step 1: Emergency tarping to prevent further damage",
+          "Step 2: Thorough inspection and damage assessment",
+          "Step 3: Insurance claim assistance",
+          "Step 4: Repair or replacement of damaged roofing materials"
+        ],
+        "benefits": [
+          "Restores your roof to its pre-storm condition",
+          "Protects your home from further damage",
+          "Provides insurance claim assistance",
+          "Offers peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if my roof is damaged in a storm?",
+            "answer": "Contact Hometown Roofing immediately for emergency tarping and a thorough inspection."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we work closely with insurance companies to ensure that your claim is processed smoothly and efficiently."
+          },
+          {
+            "question": "How long will it take to repair my storm-damaged roof?",
+            "answer": "The timeline for repairs will depend on the extent of the damage and the availability of materials."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspections",
+        "name": "Roof Inspections",
+        "shortDescription": "Detailed roof inspections to identify potential problems.",
+        "description": "Protect your investment with a thorough roof inspection from Hometown Roofing. We offer detailed roof inspections to identify potential problems before they escalate into costly repairs. Our experienced technicians will carefully examine your roof for signs of damage, including missing shingles, cracked flashing, leaks, and structural issues. We'll provide you with a comprehensive report outlining our findings and recommendations for repairs or maintenance. Regular roof inspections are essential for maintaining the integrity of your roof and preventing water damage to your home. We recommend scheduling a roof inspection at least once a year, especially after severe weather events. Our roof inspections are also valuable for homeowners who are buying or selling a home. A professional roof inspection can provide valuable information about the condition of the roof and help you avoid unexpected surprises. Don't wait until you have a leak to schedule a roof inspection. Contact Hometown Roofing today to protect your home with a thorough roof inspection.",
+        "process": [
+          "Step 1: Visual inspection of roofing materials",
+          "Step 2: Careful check of flashing and seals",
+          "Step 3: Assessment of structural integrity",
+          "Step 4: Detailed report with findings and recommendations"
+        ],
+        "benefits": [
+          "Identifies potential problems early",
+          "Prevents costly repairs",
+          "Extends the life of your roof",
+          "Provides valuable information for homeowners"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend scheduling a roof inspection at least once a year, especially after severe weather events."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "A roof inspection includes a visual examination of your roofing materials, flashing, and structural integrity."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "Contact us today for a free quote on our roof inspection services."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-installation",
+        "name": "Skylight Installation",
+        "shortDescription": "Brighten your home with professional skylight installation.",
+        "description": "Bring natural light into your home with a professionally installed skylight from Hometown Roofing. We offer a wide selection of skylights to choose from, including fixed skylights, venting skylights, and sun tunnels. Our experienced technicians will ensure that your skylight is installed properly and sealed to prevent leaks. Skylights can enhance the beauty and value of your home, while also improving energy efficiency by reducing the need for artificial lighting. We offer skylight installation services for both new construction and existing homes. We'll work with you to select the right skylight for your needs and budget, and we'll handle all aspects of the installation process, from framing to finishing. We use only high-quality materials and proven installation techniques to ensure lasting performance and a beautiful, leak-free skylight. Transform your home with natural light. Contact Hometown Roofing today for a free skylight consultation.",
+        "process": [
+          "Step 1: Consultation and skylight selection",
+          "Step 2: Framing and preparation of the roof opening",
+          "Step 3: Installation of the skylight and flashing",
+          "Step 4: Sealing and finishing the installation"
+        ],
+        "benefits": [
+          "Adds natural light to your home",
+          "Improves energy efficiency",
+          "Enhances the beauty and value of your home",
+          "Creates a more inviting living space"
+        ],
+        "faq": [
+          {
+            "question": "What type of skylight is best for my home?",
+            "answer": "The best type of skylight will depend on your needs, budget, and the location of the skylight on your roof."
+          },
+          {
+            "question": "How much does it cost to install a skylight?",
+            "answer": "The cost of skylight installation will vary depending on the size and type of skylight, as well as the complexity of the installation."
+          },
+          {
+            "question": "Will a skylight leak?",
+            "answer": "When properly installed and sealed, a skylight should not leak."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Reliable commercial roofing services for Kansas City businesses.",
+        "description": "Hometown Roofing provides comprehensive commercial roofing services for businesses throughout the Kansas City area. We understand the unique challenges of commercial roofing, and we're committed to providing reliable and cost-effective solutions. We offer a wide range of commercial roofing services, including installation, repair, and maintenance. We work with a variety of roofing materials, including TPO, EPDM, and metal roofing systems. Our experienced technicians are skilled at installing and repairing all types of commercial roofs. We understand that downtime can be costly for businesses, so we work quickly and efficiently to minimize disruption to your operations. We also offer preventative maintenance programs to help extend the life of your commercial roof and prevent costly repairs. Protect your business with a reliable commercial roof from Hometown Roofing. Contact us today for a free consultation.",
+        "process": [
+          "Step 1: Thorough assessment of your commercial roofing needs",
+          "Step 2: Selection of the appropriate roofing system",
+          "Step 3: Professional installation or repair",
+          "Step 4: Ongoing maintenance and support"
+        ],
+        "benefits": [
+          "Protects your business from the elements",
+          "Extends the life of your commercial roof",
+          "Minimizes downtime",
+          "Provides cost-effective solutions"
+        ],
+        "faq": [
+          {
+            "question": "What type of roofing system is best for my commercial building?",
+            "answer": "The best type of roofing system will depend on the size and type of your building, as well as your budget and energy efficiency goals."
+          },
+          {
+            "question": "How often should I have my commercial roof inspected?",
+            "answer": "We recommend scheduling a commercial roof inspection at least twice a year."
+          },
+          {
+            "question": "Do you offer preventative maintenance programs for commercial roofs?",
+            "answer": "Yes, we offer preventative maintenance programs to help extend the life of your commercial roof and prevent costly repairs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Hometown Roofing is proud to serve the residents of Overland Park, Missouri. Known for its established suburban neighborhoods dating back to the 1970s through the 1990s, Overland Park homes require a roofer who understands the specific needs of these structures. We have extensive experience working on homes of all ages in Overland Park, ensuring your roof is ready to withstand the elements.\n\nOur team is well-versed in handling the challenges presented by Overland Park's climate, including cold winters and frequent ice storms. We offer a range of roofing services, from repairs and maintenance to full roof replacements, using high-quality materials that are built to last. We are committed to providing Overland Park homeowners with reliable, trustworthy roofing solutions.",
+        "localContext": "Overland Park features established suburbs built primarily between the 1970s and 1990s, requiring roofing solutions tailored to those homes and the region's propensity for ice storms.",
+        "nearbyAreas": [
+          "Leawood",
+          "Lenexa",
+          "Prairie Village"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Hometown Roofing is your trusted roofing partner in Olathe, Missouri. Olathe is a vibrant city known for its family-friendly developments built primarily between the 1980s and 2000s. We understand the unique roofing needs of these homes and are dedicated to providing top-quality service to Olathe residents.\n\nWe offer a comprehensive range of roofing services in Olathe, from minor repairs to complete roof replacements. We are experienced in handling the challenges posed by Olathe's climate, including cold winters and ice storms. Our team uses only the highest quality materials and proven techniques to ensure your roof is durable and long-lasting.",
+        "localContext": "Olathe is characterized by family developments constructed from the 1980s to the 2000s, and experiences cold winters with frequent ice storms, impacting roofing needs.",
+        "nearbyAreas": [
+          "Gardner",
+          "Lenexa",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Hometown Roofing is dedicated to serving the residents of Lee's Summit, Missouri. Lee's Summit is a thriving community with many family homes built during the 1970s through the 1990s. We are familiar with the roofing styles and materials common in these homes and can provide expert roofing services to ensure their longevity.\n\nWe understand the challenges that the Missouri climate presents, especially the cold winters and potential for ice storms. Hometown Roofing offers a full suite of roofing services in Lee's Summit, including inspections, repairs, maintenance, and complete roof replacements. We are committed to providing reliable and affordable roofing solutions to protect your home and family.",
+        "localContext": "Lee's Summit is known for its established family homes built in the 1970s-1990s and its climate prone to cold winters and ice storms, which require durable roofing solutions.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Independence",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Kansas City",
+        "slug": "kansas-city-mo",
+        "state": "MO",
+        "content": "Hometown Roofing is proud to provide comprehensive roofing services to Kansas City, Missouri, and surrounding areas. Kansas City is a diverse city with a wide range of architectural styles, each requiring specific roofing solutions. From historic homes to modern buildings, we have the expertise to handle any roofing project.\n\nWe understand the challenges of the Kansas City climate, with its hot summers and cold winters. Our team is committed to using high-quality materials and proven techniques to ensure your roof can withstand the elements. Whether you need a minor repair or a complete roof replacement, you can trust Hometown Roofing to deliver exceptional service and results.",
+        "localContext": "Kansas City's varied architecture and climate, featuring both hot summers and cold winters, demand a roofing company with broad experience and durable solutions.",
+        "nearbyAreas": [
+          "Independence",
+          "Gladstone",
+          "Overland Park"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Hometown Roofing is your go-to roofing expert in Independence, Missouri. We understand the unique needs of homes in Independence, from older, historic structures to newer developments. We offer a full range of roofing services to protect your home and family.\n\nWe are familiar with the challenges posed by the Missouri climate, including harsh winters and potential for severe storms. Our team uses only the highest quality materials and proven techniques to ensure your roof is durable and long-lasting. Whether you need a minor repair or a complete roof replacement, you can count on Hometown Roofing for reliable and affordable service.",
+        "localContext": "Independence, MO experiences varied weather and includes a mix of historic and modern homes, requiring a roofing company that can adapt to diverse needs.",
+        "nearbyAreas": [
+          "Kansas City",
+          "Lee's Summit",
+          "Blue Springs"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Hometown Roofing is pleased to offer its services to the residents of Blue Springs, Missouri. We are committed to providing top-quality roofing solutions to protect your home and family. Blue Springs is a growing community with a mix of established neighborhoods and newer developments.\n\nWe are well-versed in the challenges presented by the Missouri climate, including cold winters and occasional severe storms. Our team uses only the highest quality materials and proven techniques to ensure your roof is durable and long-lasting. Whether you need a minor repair or a complete roof replacement, you can trust Hometown Roofing for reliable service and exceptional results.",
+        "localContext": "Blue Springs, MO, with its combination of established and new neighborhoods, experiences a climate with cold winters and occasional severe storms, necessitating reliable roofing.",
+        "nearbyAreas": [
+          "Lee's Summit",
+          "Independence",
+          "Grain Valley"
+        ]
+      },
+      {
+        "city": "Lenexa",
+        "slug": "lenexa-mo",
+        "state": "MO",
+        "content": "Hometown Roofing is dedicated to providing exceptional roofing services to the residents of Lenexa, Missouri. Lenexa is a thriving community with a mix of residential and commercial properties. We are experienced in working on a variety of roofing types and styles, ensuring we can meet your specific needs.\n\nWe understand the challenges of the Kansas City climate, with its hot summers and cold winters. Our team is committed to using high-quality materials and proven techniques to ensure your roof can withstand the elements. Whether you need a minor repair or a complete roof replacement, you can trust Hometown Roofing to deliver reliable service and exceptional results.",
+        "localContext": "Lenexa, MO, experiences variable weather and includes a mix of residential and commercial properties, demanding roofing expertise across different building types.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Olathe",
+          "Shawnee"
+        ]
+      },
+      {
+        "city": "Shawnee",
+        "slug": "shawnee-mo",
+        "state": "MO",
+        "content": "Hometown Roofing is proud to serve the residents of Shawnee, Missouri. We are committed to providing top-quality roofing solutions to protect your home and family. Shawnee features a range of housing styles, and we are experienced in providing roofing services for all of them.\n\nWe understand the challenges presented by the Kansas City climate, including cold winters and potential for severe storms. Our team uses only the highest quality materials and proven techniques to ensure your roof is durable and long-lasting. Whether you need a minor repair or a complete roof replacement, you can count on Hometown Roofing for reliable and affordable service.",
+        "localContext": "Shawnee, MO's climate requires durable roofing solutions to withstand cold winters and potential severe storms, and its diverse housing styles demand varied expertise.",
+        "nearbyAreas": [
+          "Lenexa",
+          "Overland Park",
+          "Kansas City"
+        ]
+      },
+      {
+        "city": "Prairie Village",
+        "slug": "prairie-village-mo",
+        "state": "MO",
+        "content": "Hometown Roofing is pleased to offer its expert roofing services to the homeowners of Prairie Village, Missouri. Prairie Village is known for its charming, established homes. We understand the specific roofing needs of these homes and are dedicated to providing top-quality service.\n\nWe are familiar with the challenges of the Kansas City climate, including hot summers and cold winters. Our team uses only the highest quality materials and proven techniques to ensure your roof can withstand the elements. Whether you need a minor repair or a complete roof replacement, you can trust Hometown Roofing for reliable service and exceptional results.",
+        "localContext": "Prairie Village's established homes and variable climate, featuring hot summers and cold winters, require a roofing company with experience in older structures and weather-resistant materials.",
+        "nearbyAreas": [
+          "Overland Park",
+          "Leawood",
+          "Kansas City"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "Hometown Roofing did an outstanding job replacing our roof. They were professional, efficient, and the quality of their work is exceptional. They even cleaned up thoroughly afterward. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Gutter Repair",
+        "text": "Our gutters were damaged in a recent storm. Hometown Roofing came out quickly and repaired them perfectly. They were reasonably priced and very responsive.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "We recently bought a home in Brookside and wanted to ensure the roof was in good condition. Hometown Roofing provided a very thorough inspection and gave us peace of mind. Very knowledgeable.",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After a bad hailstorm, Hometown Roofing helped us navigate the insurance claim process and repaired our roof quickly and efficiently. They were a lifesaver!",
+        "date": "2024-06-02"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Skylight Installation",
+        "text": "We had Hometown Roofing install a skylight in our living room, and it has completely transformed the space! The installation was smooth, and the skylight looks beautiful. Great job!",
+        "date": "2024-04-10"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Hometown Roofing fixed a persistent leak in our roof. They were prompt, courteous, and the repair seems very solid. I'm very happy with their service.",
+        "date": "2023-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Hometown Roofing: Kansas City Roofing Experts",
+        "description": "Reliable roofing services in Kansas City, MO. Roof repair, replacement, inspections. Free quotes!"
+      },
+      "about": {
+        "title": "About Hometown Roofing - Kansas City",
+        "description": "Learn about Hometown Roofing's commitment to quality roofing in Kansas City. Local experts you can trust."
+      },
+      "services": {
+        "title": "Kansas City Roofing Services",
+        "description": "Comprehensive roofing services in Kansas City, MO. Roof repair, replacement, gutters, and more."
+      },
+      "contact": {
+        "title": "Contact Hometown Roofing - Kansas City",
+        "description": "Contact Hometown Roofing for a free roofing estimate in Kansas City, MO. Call us today!"
+      },
+      "reviews": {
+        "title": "Hometown Roofing - Customer Reviews",
+        "description": "Read what our customers are saying about Hometown Roofing in Kansas City. Trusted roofing contractor."
+      },
+      "service-areas": {
+        "title": "Hometown Roofing Service Areas",
+        "description": "Hometown Roofing provides roofing services throughout the Kansas City metro area. Check our service area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-repair": "/images/service-roof-repair.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "roof-inspections": "/images/service-roof-inspections.webp",
+      "skylight-installation": "/images/service-skylight-installation.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspections": {
+        "src": "/images/service-roof-inspections.webp",
+        "srcset": "/images/service-roof-inspections-400w.webp 400w, /images/service-roof-inspections-800w.webp 800w, /images/service-roof-inspections-1200w.webp 1200w, /images/service-roof-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-installation": {
+        "src": "/images/service-skylight-installation.webp",
+        "srcset": "/images/service-skylight-installation-400w.webp 400w, /images/service-skylight-installation-800w.webp 800w, /images/service-skylight-installation-1200w.webp 1200w, /images/service-skylight-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
